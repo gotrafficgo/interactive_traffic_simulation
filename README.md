@@ -9,8 +9,7 @@ I used R2023a
   1. Change settings in "Z_Setup.m"
   2. Type "Main_A_Simulation" in Command Window to run the simulation and interactive interface
   3. Type "Main_B_PlotTrajectory" in Command Window to plot the trajectories
-  4. Type "Main_C_ReplayAnimation" in Command Window to replay an animation for the simulation process
-  5. Simulation results (data) are saved in the folder "SimulationResult"
+  4. Simulation results (data) are saved in the folder "SimulationResult"
 
 # how to interact
   1. Press 'Enter' on the keyboard to enter the interactive mode; Press it again to quit
