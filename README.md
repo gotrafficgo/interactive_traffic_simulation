@@ -10,6 +10,7 @@ I used R2023a
   2. Type "Main_A_Simulation" in Command Window to run the simulation and interactive interface
   3. Type "Main_B_PlotTrajectory" in Command Window to plot the trajectories
   4. Simulation results (data) are saved in the folder "SimulationResult"
+Note: I used a MacBook Pro. The position and size of the animation may vary depending on the screen resolution. I will improve it when I have more time.
 
 # how to interact
   1. Press 'Enter' on the keyboard to enter the interactive mode; Press it again to quit
