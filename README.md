@@ -1,4 +1,6 @@
 # Interactive Traffic Simulation
+
+## brief intro
 In this (ring-road multi-lane) traffic simulation, one can take the wheel of a car for changing lanes, acceleration and deceleration in real time, also creating congestion. One can observe the traffic dynamics and stop-and-go waves through plotting the time-space diagram of trajectories
 
 ## all you need is Matlab
