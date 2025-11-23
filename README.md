@@ -50,7 +50,7 @@ If you find this work useful, please consider citing the project
 @misc{ZhengbingHe2025,
   title={Interactive Traffic Simulation},
   author={He, Zhengbing},
-  journal={https://github.com/gotrafficgo/interactive_traffic_simulation},
+  howpublished = {\url{https://github.com/gotrafficgo/interactive_traffic_simulation}},
   year={2025}
 }
 
