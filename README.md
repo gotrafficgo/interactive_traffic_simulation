@@ -47,7 +47,7 @@ Try the Super Mario version by downloading "Mario_Version.zip". Have FUN!
 If you find this work useful, please consider citing the project
 
 ```bibtex
-@article{ZhengbingHe2025,
+@misc{ZhengbingHe2025,
   title={Interactive Traffic Simulation},
   author={He, Zhengbing},
   journal={https://github.com/gotrafficgo/interactive_traffic_simulation},
