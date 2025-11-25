@@ -6,6 +6,8 @@ In this (ring-road multi-lane) traffic simulation, one can take the wheel of a c
 ## all you need is Matlab
 I used R2023a
 
+Note: I just noticed that the animation displays correctly only on high-resolution screens (such as a MacBook) --- I have not had the time to improve it yet.
+
 ## how to run the simulation
   0. Make sure everything is under the same folder
   1. Change settings in "Z_Setup.m"
